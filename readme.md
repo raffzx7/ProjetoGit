@@ -1,5 +1,5 @@
 ## Git: ##
-Git é um sistema de controle de versão distribuído, amplamente utilizado no desenvolvimento de software. Ele permite que várias pessoas trabalhem em um mesmo projeto simultaneamente, controlando as mudanças feitas nos arquivos ao longo do tempo. Com o Git, é possível acompanhar quem fez quais alterações, mesclar diferentes versões do código e reverter para versões anteriores, caso necessário.
+Git é um sistema de controle de versão distribuído, amplamente utilizado no desenvolvimento de software. Ele permite que várias pessoas trabalhem em um mesmo projeto simultaneamente, controlando as mudanças feitas nos arquivos ao longo do tempo. Com o Git, é possível acompanhar quem fez quais alterações, mesclar diferentes versões do código e reverter para versões anteriores, caso necessário. 
 
 ## GitHub: ##
 GitHub é uma plataforma de hospedagem de código-fonte baseada em Git. Além de fornecer recursos para hospedar repositórios Git, o GitHub oferece ferramentas de colaboração, como controle de problemas (issues), pull requests, wikis e gerenciamento de projetos. É amplamente utilizada pela comunidade de desenvolvedores para compartilhar e colaborar em projetos de código aberto e privado.
