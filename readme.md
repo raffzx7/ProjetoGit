@@ -18,6 +18,7 @@ Repository name (Nome do repositório): Escolha um nome para o seu repositório.
 Description (Descrição): Opcionalmente, adicione uma breve descrição do seu repositório.
 Visibility (Visibilidade): Escolha entre "Public" (Público) ou "Private" (Privado). Repositórios públicos são visíveis para todos, enquanto os privados são acessíveis apenas para pessoas autorizadas.
 Initialize this repository with a README (Inicialize este repositório com um README): Selecione esta opção se deseja criar um arquivo README.md no seu repositório. O README é útil para fornecer informações sobre o seu projeto.
+
 **Passo 5:** Após preencher os campos, clique no botão verde "Create repository" (Criar repositório).
 
 Pronto! Você criou com sucesso um novo repositório no GitHub. Agora você pode começar a adicionar arquivos, colaboradores e trabalhar no seu projeto.
